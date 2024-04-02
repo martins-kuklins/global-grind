@@ -1,0 +1,15 @@
+.btn-trial {
+	background-color: #5C3D2E;
+    color : white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+.btn-trial:hover { 
+    background-color: #2D2424;
+    color : white;
+ }
